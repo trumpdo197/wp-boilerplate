@@ -1,0 +1,13 @@
+@import 'generic/tailwind.css';
+@import 'generic/layout.css';
+@import 'generic/common.css';
+@import 'generic/animations.css';
+@import 'generic/heading.css';
+
+/* Plugins */
+@import 'plugins/wordpress-form.css';
+
+/* Components */
+
+/* Home */
+@import 'components/home/slide.css';
